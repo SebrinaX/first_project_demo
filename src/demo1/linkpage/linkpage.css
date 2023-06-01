@@ -78,3 +78,12 @@ td {
 thead th {
 	text-transform: uppercase;
 }
+
+.td-red {
+	color: #fff;
+	background-color: rgb(219, 3, 3);
+}
+
+.td-orange {
+	background-color: orange;
+}
